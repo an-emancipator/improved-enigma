@@ -1,0 +1,52 @@
+{
+  "menu0": {
+    "button1": "CONTATE-NOS",
+    "image": ""
+  },
+  "menu1": {
+    "first": {
+      "title": "12",
+      "text": "obras em andamento"
+    },
+    "second": {
+      "title": "+256",
+      "text": "obras já concluídas"
+    },
+    "third": {
+      "title": "3",
+      "text": "obras em projeto"
+    }
+  },
+  "menu2": {
+    "pre-title": "experiência",
+    "title": "Porque nos escolher?",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur.",
+    "image":
+  },
+  "menu3": {
+    "first": {
+      "image": "",
+      "title": "Superior em todos os detalhes",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A blanditiis eum, quia consequatur adipisicing elit tempore expedita."
+    },
+    "second": {
+      "image": "",
+      "title": "Construção",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque ipsam amet, adipisicing elit recusandae a ducimus officiis."
+    },
+    "third": {
+      "image": "",
+      "title": "Segurança do trabalho",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, impedit laboriosam adipisicing elit animi ab suscipit pariatur."
+    }
+  },
+  "menu4": {
+    "title": "Institucional",
+    "video-link": ""
+  },
+  "menu5": {
+    "image1": "",
+    "image2": "",
+    "text": "Lorem, ipsum dolor sit amet consectetur adipisicing. Harum adipisci quam nihil enim porro accusamus corrupti saepe aspernatur libero, a neque aperiam incidunt illum cumque molestias iste. Mollitia facilis dolor, illo non magnam unde ducimus dignissimos?"
+  }
+}
