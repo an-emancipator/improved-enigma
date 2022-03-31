@@ -1,0 +1,13 @@
+{
+  "page-title": "Fale conosco",
+  "menu0": {
+    "title": "Fale conosco",
+    "name": "Nome",
+    "phone": "Telefone",
+    "email": "Email",
+    "subject": "Assunto",
+    "subjects": ["Comercial", "Industrial", "Incorporação/Residensial", "Trabalhe conosco"],
+    "text": "Texto",
+    "send": "ENVIAR"
+  }
+}
