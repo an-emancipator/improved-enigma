@@ -6,15 +6,15 @@
   },
   "menu1": {
     "first": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/portfolio/menu1/first/image.jpg",
       "title": "Clínicas e Hospitais"
     },
     "second": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/portfolio/menu1/second/image.jpg",
       "title": "Indústrias e Logística"
     },
     "third": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/portfolio/menu1/third/image.jpg",
       "title": "Incorporações"
     }
   }
