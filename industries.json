@@ -1,4 +1,11 @@
 {
   "page_title": "Indústrias e Logística",
-  "images": [""]
+  "images": [
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image1.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image2.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image3.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image4.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/industries/images/image5.png"
+  ]
 }
