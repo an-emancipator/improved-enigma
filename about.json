@@ -1,7 +1,7 @@
 {
   "page_title": "Sobre a ENEC",
   "menu0": {
-    "image": "",
+    "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu0/image.png",
     "pre_title": "história",
     "title": "41 anos de trabalho",
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur."
@@ -15,17 +15,17 @@
   },
   "menu3": {
     "first": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/first/image.png",
       "title": "Superior em todos os detalhes",
       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A blanditiis eum, quia consequatur adipisicing elit tempore expedita."
     },
     "second": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/second/image.png",
       "title": "Construção",
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque ipsam amet, adipisicing elit recusandae a ducimus officiis."
     },
     "third": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/third/image.png",
       "title": "Segurança do trabalho",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, impedit laboriosam adipisicing elit animi ab suscipit pariatur."
     }
