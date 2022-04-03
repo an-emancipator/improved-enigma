@@ -19,7 +19,7 @@
     }
   },
   "menu2": {
-    "pre-title": "experiência",
+    "pre_title": "experiência",
     "title": "Porque nos escolher?",
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur.",
     "image": ""
@@ -43,7 +43,7 @@
   },
   "menu4": {
     "title": "Institucional",
-    "video-link": ""
+    "video_link": ""
   },
   "menu5": {
     "image1": "",
