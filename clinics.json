@@ -1,4 +1,11 @@
 {
   "page_title": "Clínicas e Hospitais",
-  "images": [""]
+  "images": [
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image1.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image2.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image3.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image4.png",
+    "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/clinics/images/image5.png"
+  ]
 }
