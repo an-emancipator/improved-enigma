@@ -2,7 +2,7 @@
   "page_title": "Pagina Inicial",
   "menu0": {
     "button1": "CONTATE-NOS",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu0/image.jpg"
   },
   "menu1": {
     "first": {
@@ -22,21 +22,21 @@
     "pre_title": "experiência",
     "title": "Porque nos escolher?",
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur.",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu2/image.png"
   },
   "menu3": {
     "first": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/first/image.png",
       "title": "Superior em todos os detalhes",
       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A blanditiis eum, quia consequatur adipisicing elit tempore expedita."
     },
     "second": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/second/image.png",
       "title": "Construção",
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque ipsam amet, adipisicing elit recusandae a ducimus officiis."
     },
     "third": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/third/image.png",
       "title": "Segurança do trabalho",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, impedit laboriosam adipisicing elit animi ab suscipit pariatur."
     }
@@ -46,8 +46,8 @@
     "video_link": ""
   },
   "menu5": {
-    "image1": "",
-    "image2": "",
+    "image1": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image1.png",
+    "image2": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image2.png",
     "text": "Lorem, ipsum dolor sit amet consectetur adipisicing. Harum adipisci quam nihil enim porro accusamus corrupti saepe aspernatur libero, a neque aperiam incidunt illum cumque molestias iste. Mollitia facilis dolor, illo non magnam unde ducimus dignissimos?"
   }
 }
