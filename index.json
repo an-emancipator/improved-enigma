@@ -21,24 +21,24 @@
   "menu2": {
     "pre_title": "experiência",
     "title": "Porque nos escolher?",
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur.",
+    "text": "Com mais de 42 anos de mercado e um portfólio que fala por si, a ENEC sempre foi conhecida por uma empresa que entrega suas obras na mais perfeita qualidade, dentro do prazo e cumprindo todas as normas impostas pela ISO 9001 e ISO 45001.",
     "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu2/image.png"
   },
   "menu3": {
     "first": {
       "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/first/image.png",
       "title": "Superior em todos os detalhes",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A blanditiis eum, quia consequatur adipisicing elit tempore expedita."
+      "text": "Nós juntamos e capacitamos os melhores engenheiros do mercado, os quais acompanham nossa obra desde a fundação ao acabamento."
     },
     "second": {
       "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/second/image.png",
       "title": "Construção",
-      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque ipsam amet, adipisicing elit recusandae a ducimus officiis."
+      "text": "Nosso padrão construtivo é conhecido em todos os lugares como sendo o melhor e mais impecável, seguindo à risca os procedimentos da ISO 9001."
     },
     "third": {
       "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/third/image.png",
       "title": "Segurança do trabalho",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, impedit laboriosam adipisicing elit animi ab suscipit pariatur."
+      "text": "Nós da ENEC somos referência em termos de segurança em obras, uma das poucas empresas do estado a ser certificados na ISO 45001."
     }
   },
   "menu4": {
@@ -48,6 +48,6 @@
   "menu5": {
     "image1": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image1.png",
     "image2": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image2.png",
-    "text": "Lorem, ipsum dolor sit amet consectetur adipisicing. Harum adipisci quam nihil enim porro accusamus corrupti saepe aspernatur libero, a neque aperiam incidunt illum cumque molestias iste. Mollitia facilis dolor, illo non magnam unde ducimus dignissimos?"
+    "text": "Somos uma das primeiras empresas de engenharia do estado a ser certificados na ISO 45001, gestão de saúde e segurança do trabalho, uma das certificações mais requisitadas nacionalmente, garantindo nossos processos e operações seguras."
   }
 }
