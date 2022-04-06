@@ -3,31 +3,14 @@
   "menu0": {
     "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu0/image.png",
     "pre_title": "história",
-    "title": "41 anos de trabalho",
-    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa beatae voluptatem qui earum quam. Repudiandae eum, corporis ex provident voluptatem tenetur commodi, ducimus impedit quam consectetur aut, dolorum excepturi eius, corporis ex provident voluptatem tenetur."
+    "title": "42 anos de trabalho",
+    "text": "Nós da ENEC sempre tivemos como objetivo ser a empresa de engenharia mais competente. Nós estamos sempre buscando aprender e melhorar para entregar uma solução moderna e arrojada para nossos clientes."
   },
   "menu2": {
-    "pre_title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates enim itaque qui esse reiciendis error sit eaque, at voluptatem nobis ipsam soluta reprehenderit cumque libero dolorem voluptate culpa quos. Dolore. Quis magni sunt aut accusamus repellendus, accusantium possimus ipsa rem quo delectus est quasi animi recusandae officiis voluptates cum! Voluptatibus quaerat omnis, voluptate error dolores incidunt porro.",
-    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing. Harum adipisci quam nihil",
-    "text1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita error quis, dolor pariatur numquam magnam cum quam, nostrum ut enim quo culpa assumenda consequatur rerum quia magni dolores vitae eos laudantium consectetur placeat atque quibusdam ab suscipit! Molestias accusamus dolore provident natus laborum eius quis, iusto quidem vero sint dolor amet perferendis exercitationem fuga, itaque magni ducimus debitis? Hic, repudiandae.",
-    "text2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium officia quibusdam facilis dignissimos eos placeat pariatur, reiciendis assumenda magni incidunt dolore rerum neque veritatis fuga sunt accusamus in beatae deleniti adipisci ut. Nemo itaque officiis, illo assumenda natus cumque reprehenderit ea adipisci, eaque quo fugiat fuga necessitatibus sit eligendi excepturi consectetur. Nisi voluptate eos at.",
-    "text3": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima atque, expedita delectus est itaque dignissimos ipsum dolores beatae facere adipisci. Nobis ad sunt, autem sint placeat inventore? Tenetur officia vel cupiditate iste vero commodi temporibus nemo iure, cumque incidunt voluptatum! Explicabo reprehenderit dignissimos, facilis maiores assumenda nobis rem sequi iusto illo. Fugiat consequuntur aperiam alias a illum debitis sit commodi vel, velit cumque recusandae beatae impedit, provident tempore facilis soluta!"
-  },
-  "menu3": {
-    "first": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/first/image.png",
-      "title": "Superior em todos os detalhes",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A blanditiis eum, quia consequatur adipisicing elit tempore expedita."
-    },
-    "second": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/second/image.png",
-      "title": "Construção",
-      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque ipsam amet, adipisicing elit recusandae a ducimus officiis."
-    },
-    "third": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/about/menu3/third/image.png",
-      "title": "Segurança do trabalho",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, impedit laboriosam adipisicing elit animi ab suscipit pariatur."
-    }
+    "pre_title": "A história da ENEC Engenharia é uma empresa goiana que atua no mercado de incorporação e construção civil, desde 1979. A partir daí a empresa gerenciou e construiu mais de 3 milhões de metros quadrados. Deixando sempre impressa sua marca de modernidade, funcionalidade e excelência de execução em todas as etapas de suas obras, os acabamentos primorosos de suas construções são pontos de destaque e reconhecimento no mercado.",
+    "title": "O trabalho e a excelência da ENEC fazem dela referência na construção de hospitais, edifícios residenciais, comerciais e industriais.",
+    "text1": "Em todos esses anos a ENEC sempre procurou trabalhar com os melhores engenheiros, mestres de obra, pedreiros do mercado, capacitando e potencializando seu conhecimento para uma execução impecável de seus conhecimentos em uma obra. Alguns de nossos melhores colaboradores estão conosco há 42 anos passando a frente seu conhecimento. Por essa e por outras razões a ENEC é uma das melhores empresas para se trabalhar no estado de Goiás.",
+    "text2": "Em 42 anos de mercado nós adquirimos experiência suficiente para afirmar que a ENEC é a melhor escolha para você que quer construir seu hospital ou sua indústria, tendo no nosso portfólio algumas das maiores e melhores indústrias e hospitais já construídos no País.",
+    "text3": "Não é qualquer empresa que pode dizer que é superior em todos os detalhes."
   }
 }
