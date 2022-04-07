@@ -26,17 +26,17 @@
   },
   "menu3": {
     "first": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/first/image.png",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/first/image.svg",
       "title": "Superior em todos os detalhes",
       "text": "Nós juntamos e capacitamos os melhores engenheiros do mercado, os quais acompanham nossa obra desde a fundação ao acabamento."
     },
     "second": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/second/image.png",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/second/image.svg",
       "title": "Construção",
       "text": "Nosso padrão construtivo é conhecido em todos os lugares como sendo o melhor e mais impecável, seguindo à risca os procedimentos da ISO 9001."
     },
     "third": {
-      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/third/image.png",
+      "image": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu3/third/image.svg",
       "title": "Segurança do trabalho",
       "text": "Nós da ENEC somos referência em termos de segurança em obras, uma das poucas empresas do estado a ser certificados na ISO 45001."
     }
@@ -46,8 +46,8 @@
     "video_link": "https://www.youtube.com/embed/_2c8YZwzaMk"
   },
   "menu5": {
-    "image1": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image1.png",
-    "image2": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image2.png",
+    "image1": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image1.svg",
+    "image2": "https://raw.githubusercontent.com/an-emancipator/improved-enigma/main/images/index/menu5/image2.svg",
     "text": "Somos uma das primeiras empresas de engenharia do estado a ser certificados na ISO 45001, gestão de saúde e segurança do trabalho, uma das certificações mais requisitadas nacionalmente, garantindo nossos processos e operações seguras."
   }
 }
