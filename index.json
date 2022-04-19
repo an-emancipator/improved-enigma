@@ -6,15 +6,15 @@
   },
   "menu1": {
     "first": {
-      "title": "12",
+      "title": "",
       "text": "obras em andamento"
     },
     "second": {
-      "title": "+256",
+      "title": "",
       "text": "obras já concluídas"
     },
     "third": {
-      "title": "3",
+      "title": "",
       "text": "obras em projeto"
     }
   },
