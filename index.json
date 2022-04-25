@@ -7,15 +7,15 @@
   "menu1": {
     "first": {
       "title": "",
-      "text": "obras em andamento"
+      "text": ""
     },
     "second": {
       "title": "",
-      "text": "obras já concluídas"
+      "text": ""
     },
     "third": {
       "title": "",
-      "text": "obras em projeto"
+      "text": ""
     }
   },
   "menu2": {
