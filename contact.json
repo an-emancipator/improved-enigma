@@ -7,7 +7,7 @@
     "phone": "Telefone",
     "email": "Email",
     "subject": "Assunto",
-    "subjects": ["Comercial", "Industrial", "Incorporação/Residensial", "Trabalhe conosco"],
+    "subjects": ["Comercial", "Industrial", "Incorporação/Residencial", "Trabalhe conosco"],
     "text": "Texto",
     "send": "ENVIAR"
   }
